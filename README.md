@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gauri Singhal</h1>
-<h3 align="center">A passionate software developer and an avid learner</h3>
+<h3 align="center">A passionate Data Analyst and an avid learner</h3>
 
 - 🌱 I’m currently learning **Generative AI**
 - 📫 Reach Me At: You can contact me at **gaurisinghal185@gmail.com** – I'd love to connect and collaborate! 🤝
