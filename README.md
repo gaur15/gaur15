@@ -15,13 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gauri Singhal</h1>
-<h3 align="center">A passionate Data Analyst and an avid learner</h3>
+<h3 align="center">Data Analyst • Business Analyst • Problem Solver</h3>
 
-- 🌱 I’m currently learning **Generative AI**
-- 📫 Reach Me At: You can contact me at **gaurisinghal185@gmail.com** – I'd love to connect and collaborate! 🤝
-- 💡 Fun Fact:
-    I’m a hackathon and open-source enthusiast, constantly on the lookout for innovative ideas and solutions. 💡
+🚀 About Me
 
+🎓 B.Tech graduate from IIITDM Jabalpur
+
+📊 Business Analyst passionate about transforming data into actionable business insights
+
+📈 Experienced in Product Analytics, A/B Testing, KPI Frameworks, Dashboard Development, and Data Storytelling
+
+🌱 Currently exploring Generative AI, Advanced Analytics, and Data-Driven Product Strategy
+
+💡 I enjoy solving business problems through data, experimentation, and automation
+
+⚡ Fun Fact: I love participating in hackathons, building data products, and contributing to open-source communities
 Thanks for stopping by! Feel free to check out my repositories
 
 <h3 align="left">Connect with me:</h3>
